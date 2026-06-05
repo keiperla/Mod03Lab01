@@ -39,3 +39,4 @@ job_counts_by_type = spark.sql("""
 
 # Show the result
 job_counts_by_type.show()
+```

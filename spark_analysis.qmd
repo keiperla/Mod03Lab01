@@ -1,0 +1,10 @@
+---
+title: "Spark SQL Job Data Analysis"
+author: "Keily Perla"
+format: html
+embed-resources: true
+date: "2026-06-05"
+date-format: long
+execute:
+  echo: true
+---
